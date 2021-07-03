@@ -1,4 +1,4 @@
-#simple search engine made in react js
+# simple search engine made in react js
 
 # Getting Started with Create React App
 
